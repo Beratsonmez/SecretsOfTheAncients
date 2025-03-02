@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\player\\interaction\\playerinteractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction\\playerinteractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\scripts\\player\\placementpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\placementpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7E6D1B-953E-D951-DD7D-31BE549C4EEF}|com.rlabrecque.steamworks.net.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\com.rlabrecque.steamworks.net\\runtime\\callbackdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7E6D1B-953E-D951-DD7D-31BE549C4EEF}|com.rlabrecque.steamworks.net.csproj|solutionrelative:assets\\com.rlabrecque.steamworks.net\\runtime\\callbackdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\scripts\\player\\interaction\\grabbableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction\\grabbableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\scripts\\player\\interaction\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\scripts\\player\\interfaces\\igrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interfaces\\igrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:32:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrabbableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\GrabbableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction\\GrabbableObject.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\GrabbableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction\\GrabbableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:32:35.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CallbackDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\com.rlabrecque.steamworks.net\\Runtime\\CallbackDispatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\com.rlabrecque.steamworks.net\\Runtime\\CallbackDispatcher.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\com.rlabrecque.steamworks.net\\Runtime\\CallbackDispatcher.cs",
+              "RelativeToolTip": "Assets\\com.rlabrecque.steamworks.net\\Runtime\\CallbackDispatcher.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAhwMgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:49:08.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInteractionController.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\PlayerInteractionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction\\PlayerInteractionController.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\PlayerInteractionController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction\\PlayerInteractionController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAowKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:18:44.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlacementPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\PlacementPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlacementPoint.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\PlacementPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlacementPoint.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:11:33.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGrabbable.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interfaces\\IGrabbable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interfaces\\IGrabbable.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interfaces\\IGrabbable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Interfaces\\IGrabbable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:23:10.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9b91ecbcc199f4492b9a91e820070131
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 93.0.1
+  assetPath: Assets/Mirror/Core/NetworkIdentity.cs
+  uploadId: 698109
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
