@@ -3,52 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Editor\\UGUI\\UI\\GraphicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Editor\\UGUI\\UI\\GraphicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\puzzles\\scalepuzzle\\scale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzles\\scalepuzzle\\scale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\lobby\\playerlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lobby\\playerlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE386323-D346-2E6C-385B-CE5C3E45BDF7}|Mirror.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\mirror\\core\\networkmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE386323-D346-2E6C-385B-CE5C3E45BDF7}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE386323-D346-2E6C-385B-CE5C3E45BDF7}|Mirror.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\mirror\\core\\networkidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE386323-D346-2E6C-385B-CE5C3E45BDF7}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\lobby\\lobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lobby\\lobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\UGUI\\UI\\Core\\Image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\UGUI\\UI\\Core\\Image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\player\\interaction\\grabbableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction\\grabbableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\player\\interaction\\playerinteractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction\\playerinteractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\scripts\\player\\placementpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\player\\placementpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\placementpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C7E6D1B-953E-D951-DD7D-31BE549C4EEF}|com.rlabrecque.steamworks.net.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\com.rlabrecque.steamworks.net\\runtime\\callbackdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C7E6D1B-953E-D951-DD7D-31BE549C4EEF}|com.rlabrecque.steamworks.net.csproj|solutionrelative:assets\\com.rlabrecque.steamworks.net\\runtime\\callbackdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\scripts\\player\\interaction\\grabbableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction\\grabbableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\scripts\\player\\interaction\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\player\\interaction\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\assets\\scripts\\player\\interfaces\\igrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interfaces\\igrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\puzzles\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzles\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58622995-74F3-7FEB-184F-5E5E47FE743C}|Mirror.Components.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\mirror\\components\\networkanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58622995-74F3-7FEB-184F-5E5E47FE743C}|Mirror.Components.csproj|solutionrelative:assets\\mirror\\components\\networkanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE386323-D346-2E6C-385B-CE5C3E45BDF7}|Mirror.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\mirror\\core\\networkbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE386323-D346-2E6C-385B-CE5C3E45BDF7}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|c:\\users\\berat\\desktop\\quixfall\\unityprojects\\quix_001\\assets\\scripts\\puzzles\\scalepuzzle\\weightball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90751AA7-1380-8531-2535-1E03FC420EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzles\\scalepuzzle\\weightball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,97 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GraphicEditor.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Editor\\UGUI\\UI\\GraphicEditor.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Editor\\UGUI\\UI\\GraphicEditor.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Editor\\UGUI\\UI\\GraphicEditor.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Editor\\UGUI\\UI\\GraphicEditor.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwDEAAABBAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PlacementPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\PlacementPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlacementPoint.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\PlacementPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlacementPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T16:40:28.929Z",
+              "WhenOpened": "2025-03-04T15:36:07.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlayerListItem.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Lobby\\PlayerListItem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lobby\\PlayerListItem.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Lobby\\PlayerListItem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lobby\\PlayerListItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T16:39:17.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NetworkMessages.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Mirror\\Core\\NetworkMessages.cs",
-              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkMessages.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Mirror\\Core\\NetworkMessages.cs",
-              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkMessages.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAhwLkAAAAFAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T16:38:29.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NetworkIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Mirror\\Core\\NetworkIdentity.cs",
-              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkIdentity.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Mirror\\Core\\NetworkIdentity.cs",
-              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkIdentity.cs",
-              "ViewState": "AgIAANECAAAAAAAAAAAhwNoCAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T16:38:18.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LobbyController.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Lobby\\LobbyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lobby\\LobbyController.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Lobby\\LobbyController.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\Lobby\\LobbyController.cs*",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:56:22.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Image.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\UGUI\\UI\\Core\\Image.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\UGUI\\UI\\Core\\Image.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\UGUI\\UI\\Core\\Image.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\UGUI\\UI\\Core\\Image.cs",
-              "ViewState": "AgIAAI8EAAAAAAAAAAAhwKUEAADnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:53:42.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InteractableObject.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:32:45.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "GrabbableObject.cs",
               "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\GrabbableObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction\\GrabbableObject.cs",
@@ -168,56 +79,99 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction\\GrabbableObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:32:35.48Z"
+              "WhenOpened": "2025-03-04T14:50:29.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CallbackDispatcher.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\com.rlabrecque.steamworks.net\\Runtime\\CallbackDispatcher.cs",
-              "RelativeDocumentMoniker": "Assets\\com.rlabrecque.steamworks.net\\Runtime\\CallbackDispatcher.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\com.rlabrecque.steamworks.net\\Runtime\\CallbackDispatcher.cs",
-              "RelativeToolTip": "Assets\\com.rlabrecque.steamworks.net\\Runtime\\CallbackDispatcher.cs",
-              "ViewState": "AgIAALIAAAAAAAAAAAAhwMgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T12:49:08.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "PlayerInteractionController.cs",
               "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\PlayerInteractionController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction\\PlayerInteractionController.cs",
               "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\PlayerInteractionController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction\\PlayerInteractionController.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAowKcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T12:18:44.191Z",
+              "WhenOpened": "2025-03-04T14:49:50.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction\\InteractableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:49:36.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NetworkAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Mirror\\Components\\NetworkAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Components\\NetworkAnimator.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Mirror\\Components\\NetworkAnimator.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Components\\NetworkAnimator.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAhwE4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:35:28.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PlacementPoint.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\PlacementPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlacementPoint.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\PlacementPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlacementPoint.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB8AAAAVAAAAAAAAAA==",
+              "Title": "NetworkBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Mirror\\Core\\NetworkBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkBehaviour.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Mirror\\Core\\NetworkBehaviour.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkBehaviour.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAhwKgAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T12:11:33.596Z"
+              "WhenOpened": "2025-03-04T14:34:30.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IGrabbable.cs",
-              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interfaces\\IGrabbable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interfaces\\IGrabbable.cs",
-              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Player\\Interfaces\\IGrabbable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Interfaces\\IGrabbable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Scale.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Puzzles\\ScalePuzzle\\Scale.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzles\\ScalePuzzle\\Scale.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Puzzles\\ScalePuzzle\\Scale.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzles\\ScalePuzzle\\Scale.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T23:23:10.286Z"
+              "WhenOpened": "2025-03-04T13:52:23.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PuzzleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Puzzles\\PuzzleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzles\\PuzzleManager.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Puzzles\\PuzzleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzles\\PuzzleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:51:53.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeightBall.cs",
+              "DocumentMoniker": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Puzzles\\ScalePuzzle\\WeightBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzles\\ScalePuzzle\\WeightBall.cs",
+              "ToolTip": "C:\\Users\\Berat\\Desktop\\QuixFall\\UnityProjects\\Quix_001\\Assets\\Scripts\\Puzzles\\ScalePuzzle\\WeightBall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzles\\ScalePuzzle\\WeightBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:49:17.663Z",
+              "EditorCaption": ""
             }
           ]
         }
